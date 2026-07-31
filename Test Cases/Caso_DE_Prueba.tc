@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TestCaseEntity>
-   <description></description>
-   <name>Caso_DE_Prueba</name>
-   <tag></tag>
-   <comment></comment>
-   <recordOption>OTHER</recordOption>
-   <testCaseGuid>52172dda-7b46-4393-8208-159630a280e3</testCaseGuid>
-</TestCaseEntity>
