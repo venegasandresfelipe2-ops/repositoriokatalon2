@@ -18,3 +18,6 @@ import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
 // Cambio realizado por el compañero
+
+
+//cambio realizado por Andrés
