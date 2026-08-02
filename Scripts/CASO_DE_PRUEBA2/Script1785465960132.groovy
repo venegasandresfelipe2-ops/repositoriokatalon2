@@ -18,3 +18,4 @@ import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
 //quiero conservar los cambios de mi compañero
+//
